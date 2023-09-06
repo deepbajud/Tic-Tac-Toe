@@ -16,4 +16,25 @@
         android:layout_marginBottom="@dimen/_85sdp"
         android:src="@drawable/tttlogo" />
 
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:fontFamily="@font/raleway"
+        android:text="Tic Tac Toe"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:fontFamily="@font/playlist"
+        android:text="play with fun"
+        android:textColor="#5A5A5A"
+        android:textSize="40sp" />
+
 </LinearLayout>
