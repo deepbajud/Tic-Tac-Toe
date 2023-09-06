@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.os.Handler;
 import android.view.WindowManager;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 public class Splash extends AppCompatActivity {
 
     @Override
